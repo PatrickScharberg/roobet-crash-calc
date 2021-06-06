@@ -1,0 +1,3 @@
+python stats.py
+
+pause
